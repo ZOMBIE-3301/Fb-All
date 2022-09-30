@@ -52,8 +52,21 @@
 
 25 Profile Guard
 
+# Command/Installation 👇
+
+apt update && upgrade
+
+apt install python2 
+
+apt install git
+
+git clone https://github.com/devil-sakib/Fb-All.git
+
+cd Fb-All
+
+python2 All.py
 
 # Enjoy The Tool 
 
-# Good Bye Brother
+# Good Bye Brother ❤️
 
