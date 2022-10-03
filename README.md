@@ -70,4 +70,4 @@ python2 All.py
 
 # Good Bye Brother ❤️
 
-[IMG](https://imgur.com/a/lnGjFf5.gif)
+[IMG](https://imgur.com/lnGjFf5.gif)
