@@ -61,7 +61,7 @@ apt install python2
 
 apt install git
 
-git clone https://github.com/devil-sakib/Fb-All.git
+git clone https://github.com/ZOMBIE-3301/Fb-All.git
 
 cd Fb-All
 
