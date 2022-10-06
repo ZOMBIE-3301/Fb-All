@@ -69,5 +69,5 @@ python2 All.py
 
 # Enjoy The Tool 
 
-# Good Bye Brother ❤️
+# Good Bye Brother 💓
 
